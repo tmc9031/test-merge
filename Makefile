@@ -1,1 +1,4 @@
 all:
+
+.PHONY:clean
+
