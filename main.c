@@ -1,1 +1,6 @@
-int
+#include <stdio.h>
+
+int main()
+{
+
+}

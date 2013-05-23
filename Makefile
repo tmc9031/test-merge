@@ -1,4 +1,4 @@
 all:
 
 .PHONY:clean
-
+	rm 
